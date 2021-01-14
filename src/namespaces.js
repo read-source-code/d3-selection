@@ -1,5 +1,8 @@
 export var xhtml = "http://www.w3.org/1999/xhtml";
 
+/**
+ * some namespaces's identifier and the corresponding address.
+ */
 export default {
   svg: "http://www.w3.org/2000/svg",
   xhtml: xhtml,
